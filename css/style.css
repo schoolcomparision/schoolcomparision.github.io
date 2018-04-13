@@ -612,7 +612,7 @@
 		}
 
 		#footer .copyright {
-			margin-top: 3em;
+			
 			padding-top: 3em;
 			border-top: 1px solid;
 			border-color: rgba(192, 192, 192, 0.15);
@@ -622,4 +622,27 @@
 
 		#footer a {
 			color: inherit;
+		}
+		.review{
+               margin: 50px;			
+		}
+		/*table  */
+		table {
+			border-collapse: collapse;
+		}
+		
+		table, td, th {
+			border: 1px solid black;
+			
+		}
+		td{
+			text-align: center;
+			margin: 3em;
+		}
+		th{
+			margin: 3em;
+			color: brown;
+			font-size: 2.75em;
+			padding: 0.8em 0;
+			
 		}

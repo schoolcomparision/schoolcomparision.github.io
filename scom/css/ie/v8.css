@@ -1,0 +1,16 @@
+
+	.button {
+		position: relative;
+		-ms-behavior: url("css/ie/PIE.htc");
+	}
+
+	ul.style .fa {
+		position: relative;
+		-ms-behavior: url("css/ie/PIE.htc");
+	}
+
+	#nav > ul > li {
+		position: relative;
+		-ms-behavior: url("css/ie/PIE.htc");
+	}
+
